@@ -1,2 +1,2 @@
 # odin-recipes
-HTML Intro Project
+HTML Intro project for a webpage with recipe content
